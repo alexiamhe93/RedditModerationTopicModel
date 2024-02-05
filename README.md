@@ -1,7 +1,7 @@
 # RedditModerationTopicModel
 This github contains all the supplementary materials for the paper titled: 
 
-Beyond norm-adherence: Reddit moderators reveal the importance of remedying norm violations for dialogue quality (Goddard et al., In Progress)
+“We don’t ban you immediately for an offense”: Reddit moderators reveal the importance of remedying norm violations for maintaining the quality of online dialogue
 
 ## Details
 
