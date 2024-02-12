@@ -1,7 +1,8 @@
 # RedditModerationTopicModel
 This github contains all the supplementary materials for the paper titled: 
 
-“We don’t ban you immediately for an offense”: Reddit moderators reveal the importance of remedying norm violations for maintaining the quality of online dialogue
+“We don't ban you immediately for an offense”: Reddit moderators reveal the importance of remedying norm violations for high-quality online dialogue (Goddard et al., in progress). 
+
 
 ## Details
 
