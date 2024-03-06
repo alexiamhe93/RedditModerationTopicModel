@@ -29,14 +29,18 @@ To open the notebook in Colab you have to:
 
 (2) Click the "Open in Colab" button at the top of the notebook. 
 
-At this point, you maybe prompted to sign into a Google account.
+At this point, you maybe prompted to sign into a Google account. 
 
 (3) Click "File" > "Save copy in drive" 
 
-This will open a new version of the notebook in your browser. 
+This will open a new version of the notebook in your browser and save a copy into your Google Drive. 
 
 (4) Close the first notebook link.
 
 (5) Follow notebook instructions to run.
 
-The notebook can also be run locally so long as all the loaded packages are installed in the relevant Python environment.
+NOTES:
+
+- Steps (3) and (4) are optional - the notebook should run fine without doing this and the original notebook should be unaffected
+
+- The notebook can also be run locally. However, this will require installation of used packages into the local Python environment.
