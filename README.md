@@ -12,7 +12,9 @@ It is organized around one Python notebook (Supplementary_matrials_A)
 There are three folders:
 
 (1) data: Contains all data required for replication
+
 (2) model: Contains the trained topic model
+
 (3) Supplementary materials B: Contains additional documentation pertaining to the paper
 
 We have also zipped both data files for easy download and access in the Python notebook.
@@ -24,6 +26,7 @@ We recommend using Google Colab for running the notebook. This is because it doe
 To open the notebook in Colab you have to:
 
 (1) Open the notebook in GitHub 
+
 (2) Click the "Open in Colab" button at the top of the notebook. 
 
 At this point, you maybe prompted to sign into a Google account.
@@ -33,6 +36,7 @@ At this point, you maybe prompted to sign into a Google account.
 This will open a new version of the notebook in your browser. 
 
 (4) Close the first notebook link.
+
 (5) Follow notebook instructions to run.
 
 The notebook can also be run locally so long as all the loaded packages are installed in the relevant Python environment.
