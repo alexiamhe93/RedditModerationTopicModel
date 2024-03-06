@@ -1,13 +1,13 @@
-# RedditModerationTopicModel
-This github contains all the supplementary materials for the paper article: 
+# Supplementary materials: "We don't ban you immediately for an offense"
+
+This GitHub contains all the supplementary materials for the article: 
 
 “We don't ban you immediately for an offense”: Reddit moderation and the importance of remedying norm violations for high-quality online dialogue.
-
 
 ## Details
 
 The github contains materials for replicating the findings in the article. 
-It is organized around one Python notebook (Supplementary_matrials_A)
+It is organized around one Python notebook (Supplementary_materials_A)
 
 There are three folders:
 
@@ -17,7 +17,7 @@ There are three folders:
 
 (3) Supplementary materials B: Contains additional documentation pertaining to the paper
 
-We have also zipped both data files for easy download and access in the Python notebook.
+We have also compressed both data files (data.zip) for easy download and access in the Python notebook.
 
 ## Running the notebook
 
@@ -29,7 +29,7 @@ To open the notebook in Colab you have to:
 
 (2) Click the "Open in Colab" button at the top of the notebook. 
 
-At this point, you maybe prompted to sign into a Google account. 
+At this point, you may be prompted to sign into a Google account. 
 
 (3) Click "File" > "Save copy in drive" 
 
@@ -43,4 +43,4 @@ NOTES:
 
 - Steps (3) and (4) are optional - the notebook should run fine without doing this and the original notebook should be unaffected
 
-- The notebook can also be run locally. However, this will require installation of used packages into the local Python environment.
+- Although the notebook can also be executed locally, doing so requires the installation of necessary packages into your local Python environment.
