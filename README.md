@@ -15,8 +15,6 @@ There are three folders:
 
 (2) "model": Contains the trained topic model
 
-(3) "Supplementary materials B": Contains additional documentation pertaining to the paper
-
 We have also compressed both data files (model_data.zip) for easy download and access in the Python notebook.
 
 ## Running the notebook
