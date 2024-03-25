@@ -1,8 +1,9 @@
-# Supplementary materials: "We don't ban you immediately for an offense"
+# Supplementary materials: Norm repair as an extension to the deliberative dialogue model
+
 
 This GitHub contains all the supplementary materials for the article: 
 
-“We don't ban you immediately for an offense”: Reddit moderation and the importance of remedying norm violations for high-quality online dialogue.
+*Norm repair as an extension to the deliberative dialogue model*
 
 ## Details
 
