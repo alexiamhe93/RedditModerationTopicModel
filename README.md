@@ -12,9 +12,9 @@ It is organized around one Python notebook (Supplementary_materials_A)
 
 There are three folders:
 
-(1) "data": Contains all data required for replication
+(1) "data": Contains all data required for replication.
 
-(2) "model": Contains the trained topic model
+(2) "model": Contains the trained topic model weights and pre-processing details.
 
 (3) "GitHub supplementary materials" with all additional supplementary materials. 
 
