@@ -7,7 +7,7 @@ This GitHub contains all the supplementary materials for the article:
 
 ## Details
 
-The github contains materials for replicating the findings in the article. 
+The github contains materials for replicating the findings in the article and any additional supplementary materials. 
 It is organized around one Python notebook (Supplementary_materials_A)
 
 There are three folders:
@@ -15,6 +15,8 @@ There are three folders:
 (1) "data": Contains all data required for replication
 
 (2) "model": Contains the trained topic model
+
+(3) "GitHub supplementary materials" with all additional supplementary materials. 
 
 We have also compressed both data files (model_data.zip) for easy download and access in the Python notebook.
 
