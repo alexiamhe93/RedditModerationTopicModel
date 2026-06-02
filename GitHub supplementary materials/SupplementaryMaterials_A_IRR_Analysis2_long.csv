@@ -1,0 +1,157 @@
+TopicID,TopicName,Norm,AG,HB,MH,Excluded
+0,"Anonymity and its impact on online vs offline conversations, with a focus on Reddit",Rationality,0,0,0,False
+0,"Anonymity and its impact on online vs offline conversations, with a focus on Reddit",Interactivity,1,1,0,False
+0,"Anonymity and its impact on online vs offline conversations, with a focus on Reddit",Equality,0,0,0,False
+0,"Anonymity and its impact on online vs offline conversations, with a focus on Reddit",Civility,1,1,1,False
+0,"Anonymity and its impact on online vs offline conversations, with a focus on Reddit",Common good reference,0,1,0,False
+0,"Anonymity and its impact on online vs offline conversations, with a focus on Reddit",Constructiveness,0,1,1,False
+1,Discussion on the rules of an online community,Rationality,1,1,1,False
+1,Discussion on the rules of an online community,Interactivity,0,1,1,False
+1,Discussion on the rules of an online community,Equality,0,0,1,False
+1,Discussion on the rules of an online community,Civility,1,1,1,False
+1,Discussion on the rules of an online community,Common good reference,1,1,1,False
+1,Discussion on the rules of an online community,Constructiveness,0,0,1,False
+2,The Role of AI in Moderation and the Future of Human Moderators,Rationality,1,0,0,False
+2,The Role of AI in Moderation and the Future of Human Moderators,Interactivity,0,0,0,False
+2,The Role of AI in Moderation and the Future of Human Moderators,Equality,0,0,1,False
+2,The Role of AI in Moderation and the Future of Human Moderators,Civility,0,0,1,False
+2,The Role of AI in Moderation and the Future of Human Moderators,Common good reference,0,0,0,False
+2,The Role of AI in Moderation and the Future of Human Moderators,Constructiveness,0,0,1,False
+3,Moderating the Mod Queue and Mod Mail,Rationality,1,1,0,False
+3,Moderating the Mod Queue and Mod Mail,Interactivity,0,1,0,False
+3,Moderating the Mod Queue and Mod Mail,Equality,0,0,0,False
+3,Moderating the Mod Queue and Mod Mail,Civility,1,1,0,False
+3,Moderating the Mod Queue and Mod Mail,Common good reference,1,0,0,False
+3,Moderating the Mod Queue and Mod Mail,Constructiveness,0,1,0,False
+4,Free Speech and Government Limitations,Rationality,0,0,0,False
+4,Free Speech and Government Limitations,Interactivity,0,0,0,False
+4,Free Speech and Government Limitations,Equality,1,0,0,False
+4,Free Speech and Government Limitations,Civility,1,1,0,False
+4,Free Speech and Government Limitations,Common good reference,0,1,0,False
+4,Free Speech and Government Limitations,Constructiveness,0,1,0,False
+5,The Importance of Moderation in Online Communities,Rationality,0,1,1,False
+5,The Importance of Moderation in Online Communities,Interactivity,1,1,1,False
+5,The Importance of Moderation in Online Communities,Equality,0,0,1,False
+5,The Importance of Moderation in Online Communities,Civility,1,1,1,False
+5,The Importance of Moderation in Online Communities,Common good reference,0,1,1,False
+5,The Importance of Moderation in Online Communities,Constructiveness,0,1,1,False
+6,Reddit Moderator Hierarchy,Rationality,0,0,0,True
+6,Reddit Moderator Hierarchy,Interactivity,0,0,0,True
+6,Reddit Moderator Hierarchy,Equality,0,0,0,True
+6,Reddit Moderator Hierarchy,Civility,0,0,0,True
+6,Reddit Moderator Hierarchy,Common good reference,0,0,0,True
+6,Reddit Moderator Hierarchy,Constructiveness,0,0,0,True
+7,Controversial subreddit and the presence of women and trans people,Rationality,0,0,0,False
+7,Controversial subreddit and the presence of women and trans people,Interactivity,0,1,0,False
+7,Controversial subreddit and the presence of women and trans people,Equality,1,1,1,False
+7,Controversial subreddit and the presence of women and trans people,Civility,1,1,1,False
+7,Controversial subreddit and the presence of women and trans people,Common good reference,0,1,0,False
+7,Controversial subreddit and the presence of women and trans people,Constructiveness,0,0,0,False
+8,Moderation and its role in reducing harm and improving quality,Rationality,1,1,1,False
+8,Moderation and its role in reducing harm and improving quality,Interactivity,0,1,1,False
+8,Moderation and its role in reducing harm and improving quality,Equality,0,0,0,False
+8,Moderation and its role in reducing harm and improving quality,Civility,1,1,1,False
+8,Moderation and its role in reducing harm and improving quality,Common good reference,0,1,1,False
+8,Moderation and its role in reducing harm and improving quality,Constructiveness,1,1,1,False
+9,Bot and Auto Moderator Usage on Reddit,Rationality,0,0,0,False
+9,Bot and Auto Moderator Usage on Reddit,Interactivity,0,0,0,False
+9,Bot and Auto Moderator Usage on Reddit,Equality,0,0,0,False
+9,Bot and Auto Moderator Usage on Reddit,Civility,1,1,0,False
+9,Bot and Auto Moderator Usage on Reddit,Common good reference,0,0,0,False
+9,Bot and Auto Moderator Usage on Reddit,Constructiveness,0,1,0,False
+10,The Need for More Online Moderation and Consequences,Rationality,0,1,1,False
+10,The Need for More Online Moderation and Consequences,Interactivity,0,1,1,False
+10,The Need for More Online Moderation and Consequences,Equality,0,0,0,False
+10,The Need for More Online Moderation and Consequences,Civility,1,1,1,False
+10,The Need for More Online Moderation and Consequences,Common good reference,0,1,1,False
+10,The Need for More Online Moderation and Consequences,Constructiveness,0,0,1,False
+11,Dangers of Online Communities and Social Media Platforms,Rationality,0,0,0,False
+11,Dangers of Online Communities and Social Media Platforms,Interactivity,1,0,0,False
+11,Dangers of Online Communities and Social Media Platforms,Equality,0,0,0,False
+11,Dangers of Online Communities and Social Media Platforms,Civility,1,1,1,False
+11,Dangers of Online Communities and Social Media Platforms,Common good reference,1,0,1,False
+11,Dangers of Online Communities and Social Media Platforms,Constructiveness,1,1,1,False
+12,Civil and open political discussions within a community,Rationality,1,1,1,False
+12,Civil and open political discussions within a community,Interactivity,1,1,1,False
+12,Civil and open political discussions within a community,Equality,0,0,1,False
+12,Civil and open political discussions within a community,Civility,1,1,1,False
+12,Civil and open political discussions within a community,Common good reference,1,1,1,False
+12,Civil and open political discussions within a community,Constructiveness,1,1,1,False
+13,Moderators' communication and decision-making process,Rationality,0,0,0,True
+13,Moderators' communication and decision-making process,Interactivity,0,0,0,True
+13,Moderators' communication and decision-making process,Equality,0,0,0,True
+13,Moderators' communication and decision-making process,Civility,0,0,0,True
+13,Moderators' communication and decision-making process,Common good reference,0,0,0,True
+13,Moderators' communication and decision-making process,Constructiveness,0,0,0,True
+14,Moderating to Improve the Sub,Rationality,1,1,1,False
+14,Moderating to Improve the Sub,Interactivity,0,1,1,False
+14,Moderating to Improve the Sub,Equality,0,0,1,False
+14,Moderating to Improve the Sub,Civility,1,1,1,False
+14,Moderating to Improve the Sub,Common good reference,1,1,1,False
+14,Moderating to Improve the Sub,Constructiveness,0,1,1,False
+15,Bans and consequences,Rationality,0,1,0,False
+15,Bans and consequences,Interactivity,0,1,0,False
+15,Bans and consequences,Equality,0,1,1,False
+15,Bans and consequences,Civility,1,1,1,False
+15,Bans and consequences,Common good reference,0,1,0,False
+15,Bans and consequences,Constructiveness,1,1,1,False
+16,Defining High-Quality Content in Online Communities,Rationality,1,1,1,False
+16,Defining High-Quality Content in Online Communities,Interactivity,1,1,1,False
+16,Defining High-Quality Content in Online Communities,Equality,0,0,0,False
+16,Defining High-Quality Content in Online Communities,Civility,0,1,1,False
+16,Defining High-Quality Content in Online Communities,Common good reference,0,1,1,False
+16,Defining High-Quality Content in Online Communities,Constructiveness,0,1,1,False
+17,Rules and moderators in a subreddit,Rationality,1,1,1,False
+17,Rules and moderators in a subreddit,Interactivity,0,1,1,False
+17,Rules and moderators in a subreddit,Equality,0,1,0,False
+17,Rules and moderators in a subreddit,Civility,1,1,1,False
+17,Rules and moderators in a subreddit,Common good reference,0,0,1,False
+17,Rules and moderators in a subreddit,Constructiveness,0,1,1,False
+18,Rediquette and its influence on Reddit behavior,Rationality,0,1,0,False
+18,Rediquette and its influence on Reddit behavior,Interactivity,0,1,0,False
+18,Rediquette and its influence on Reddit behavior,Equality,1,0,0,False
+18,Rediquette and its influence on Reddit behavior,Civility,1,1,1,False
+18,Rediquette and its influence on Reddit behavior,Common good reference,0,0,0,False
+18,Rediquette and its influence on Reddit behavior,Constructiveness,0,1,1,False
+19,Subreddit and Comments Analysis,Rationality,0,0,0,True
+19,Subreddit and Comments Analysis,Interactivity,0,0,0,True
+19,Subreddit and Comments Analysis,Equality,0,0,0,True
+19,Subreddit and Comments Analysis,Civility,0,0,0,True
+19,Subreddit and Comments Analysis,Common good reference,0,0,0,True
+19,Subreddit and Comments Analysis,Constructiveness,0,0,0,True
+20,Dealing with arguing in bad faith in moderating political comments,Rationality,1,1,1,False
+20,Dealing with arguing in bad faith in moderating political comments,Interactivity,0,1,1,False
+20,Dealing with arguing in bad faith in moderating political comments,Equality,0,0,0,False
+20,Dealing with arguing in bad faith in moderating political comments,Civility,0,1,0,False
+20,Dealing with arguing in bad faith in moderating political comments,Common good reference,0,1,0,False
+20,Dealing with arguing in bad faith in moderating political comments,Constructiveness,0,1,1,False
+21,Moderators removing posts and enforcing rules,Rationality,0,1,1,False
+21,Moderators removing posts and enforcing rules,Interactivity,0,1,1,False
+21,Moderators removing posts and enforcing rules,Equality,0,0,0,False
+21,Moderators removing posts and enforcing rules,Civility,0,1,1,False
+21,Moderators removing posts and enforcing rules,Common good reference,0,0,1,False
+21,Moderators removing posts and enforcing rules,Constructiveness,0,1,1,False
+22,Opportunities for improving online discussion,Rationality,1,1,1,False
+22,Opportunities for improving online discussion,Interactivity,0,1,1,False
+22,Opportunities for improving online discussion,Equality,0,0,1,False
+22,Opportunities for improving online discussion,Civility,0,1,1,False
+22,Opportunities for improving online discussion,Common good reference,0,1,1,False
+22,Opportunities for improving online discussion,Constructiveness,0,1,1,False
+23,Mod List and Moderation in Subreddits,Rationality,0,0,0,True
+23,Mod List and Moderation in Subreddits,Interactivity,0,0,0,True
+23,Mod List and Moderation in Subreddits,Equality,0,0,0,True
+23,Mod List and Moderation in Subreddits,Civility,0,0,0,True
+23,Mod List and Moderation in Subreddits,Common good reference,0,0,0,True
+23,Mod List and Moderation in Subreddits,Constructiveness,0,0,0,True
+24,Moderation and its Role in Community Management,Rationality,1,0,0,False
+24,Moderation and its Role in Community Management,Interactivity,0,1,0,False
+24,Moderation and its Role in Community Management,Equality,0,0,0,False
+24,Moderation and its Role in Community Management,Civility,0,1,0,False
+24,Moderation and its Role in Community Management,Common good reference,1,1,0,False
+24,Moderation and its Role in Community Management,Constructiveness,0,1,0,False
+25,Moderation Challenges in an Online Community,Rationality,1,1,1,False
+25,Moderation Challenges in an Online Community,Interactivity,0,1,1,False
+25,Moderation Challenges in an Online Community,Equality,0,0,1,False
+25,Moderation Challenges in an Online Community,Civility,1,1,1,False
+25,Moderation Challenges in an Online Community,Common good reference,0,1,1,False
+25,Moderation Challenges in an Online Community,Constructiveness,0,1,1,False
